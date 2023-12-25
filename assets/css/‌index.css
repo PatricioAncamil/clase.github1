@@ -1,0 +1,30 @@
+.header{
+    background-image: url(./pan1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+    background-position: center;
+    width: 85%;
+    margin: 0px;
+
+}
+
+.h1{
+    font-size: 35px; color: whitesmoke;
+    }
+.p1{
+        font-size: 20px; color: whitesmoke;
+        }    
+.productos{
+    background-color: blue; padding: 50px;
+}    
+
+.footer {
+    height: 6em;
+    line-height: 6em;
+    background-color: rgb(185, 112, 41);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    }
+    
